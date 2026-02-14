@@ -1,0 +1,1 @@
+# BTC-1D-TradingView-strategy-14.6.9H
